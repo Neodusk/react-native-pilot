@@ -1,5 +1,5 @@
 # react-native-pilot
-This application serves as an exampple for using `React-Native` without `Expo` with a TypeScript template.
+This application serves as an example for using `React-Native` without `Expo` with a TypeScript template.
 
 
 # [App Center](https://appcenter.ms/)
