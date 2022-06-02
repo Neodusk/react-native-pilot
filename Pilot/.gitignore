@@ -1,3 +1,5 @@
+./build
+
 # App Center
 ./android/app/src/main/assets/appcenter-config.json
 # OSX

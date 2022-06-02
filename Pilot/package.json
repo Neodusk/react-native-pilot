@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "android": "react-native run-android",
+    "build": "tsc",
     "ios": "react-native run-ios",
     "start": "react-native start",
     "test": "jest",
@@ -21,6 +22,7 @@
     "@babel/runtime": "^7.12.5",
     "@react-native-community/eslint-config": "^2.0.0",
     "@types/jest": "^26.0.23",
+    "@types/react": "^18.0.10",
     "@types/react-native": "^0.67.3",
     "@types/react-test-renderer": "^17.0.1",
     "@typescript-eslint/eslint-plugin": "^5.17.0",
